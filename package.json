@@ -31,8 +31,8 @@
     },
     "dependencies": {
         "lmtool": "2.0.3",
-        "sphinxbase": "https://github.com/cmusphinx/sphinxbase.git",
-        "PocketSphinx": "https://github.com/cmusphinx/pocketsphinx.git",
+        "sphinxbase": "git://github.com/justjim1220/sphinxbase.git",
+        "PocketSphinx": "git://github.com/justjim1220/sphinxbase.git",
         "pocketsphinx-continuous": "git://github.com/justjim1220/pocketsphinx-continuous-node.git"
     }
 }
