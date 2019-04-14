@@ -16,7 +16,7 @@ _Latest versions of:_
 * [Node.js](https://nodejs.org/en/)
 * [SphinxBase](https://github.com/cmusphinx/sphinxbase)
 * [PocketSphinx](https://github.com/cmusphinx/pocketsphinx)
-* [PocketSphinx-continuous](https://www.npmjs.com/package/pocketsphinx-continuous)
+* [PocketSphinx-continuous](git://github.com/justjim1220/pocketsphinx-continuous-node.git)
 * [lmtool](https://www.npmjs.com/package/lmtool)
 
 * a microphone with Windows Speech Recognition turned on and configured
